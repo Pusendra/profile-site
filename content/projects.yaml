@@ -1,23 +1,29 @@
-- title: Qr-Code-Application
-  subtitle: A new Flutter project
+- title: Tea Station
+  subtitle: A responsive website using HTML and CSS
+  link: https://github.com/Pusendra/Tea-Station
+
+- title: Burger Animation
+  subtitle: A simple burger animation using react
   link: https://github.com/Mr404Found/Qr-Code-Application
+  
+ - title: Video player
+  subtitle: A simple video player using html,css and javascript
+  link: https://github.com/Pusendra/video-player
+  
+- title: Rabi-Lamicchane-News-Detector
+  subtitle: A google chrome extension for blocking certain news.
+  link: https://github.com/Pusendra/Rabi-Lamicchane-News-Detector
+  
+- title: Mero Yatra
+  subtitle: A django based travel blogs.
+  link: https://github.com/Pusendra/Meroyatra
 
-- title: Basic Music
-  subtitle: Basic Music Player That lets you to play music
-  link: https://github.com/Mr404Found/Basic-Music-Player
+- title: Motorbazar
+  subtitle: A website to sale second hand cars bikes
+  link: https://github.com/Pusendra/Motorbazar
 
-- title: Age Calculator
-  subtitle: Get Your Age
-  link: https://github.com/Mr404Found/AgeCalculator
+- title: LinkedIn-Automator
+  subtitle: A script using selenium to automate linkedin
+  link: https://github.com/Pusendra/LinkedIn-Automator
 
-- title: Qr-Code-Application
-  subtitle: A new Flutter project
-  link: https://github.com/Mr404Found/Qr-Code-Application
 
-- title: Qr-Code-Application
-  subtitle: A new Flutter project
-  link: https://github.com/Mr404Found/Qr-Code-Application
-
-- title: Qr-Code-Application
-  subtitle: A new Flutter project
-  link: https://github.com/Mr404Found/Qr-Code-Application
