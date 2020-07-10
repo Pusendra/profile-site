@@ -24,22 +24,12 @@ export default function info() {
       </div>
       <div className="h1 code mt-2 mb-3">{"}"}</div>
       <div className="h1 mt-5">
-        <a className="mr-5 icon" href="https://twitter.com/Mr404Found">
-          <Twitter />
-        </a>
-        <a className="mr-5 icon" href="https://instagram.com/sumanth.zero7">
-          <Insta />
-        </a>
-        <a className="mr-5 icon" href="https://github.com/Mr404Found">
+    
+        <a className="mr-5 icon" href="https://github.com/pusendra">
           <Github />
         </a>
-        <a
-          className="mr-5 icon"
-          href="https://www.youtube.com/channel/UCw0FDIL-HpcfzEZrjcQwhMQ"
-        >
-          <Youtube />
-        </a>
-        <a className="mr-5 icon" href="mailto://contactmr404here@gmail.com">
+        
+        <a className="mr-5 icon" href="mailto://cpusendra@gmail.com">
           <Mail />
         </a>
       </div>
